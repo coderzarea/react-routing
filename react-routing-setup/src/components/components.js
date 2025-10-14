@@ -7,6 +7,5 @@ export {
     Home,
     Header,
     About,
-    Features,
-    ErrorPage
+    Features
 }
